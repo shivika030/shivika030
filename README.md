@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivika030
 - 👀 I’m interested in expanding my knowledge
-- 🌱 I’m a web developer with expertise in frontend and also web designing
+- 🌱 I’m a web developer with expertise in frontend, backend and also web designing
 - 💞️ I’m looking to collaborate on other projects
 - 📫 How to reach me : shivikabhawsar030@gmail.com
 
